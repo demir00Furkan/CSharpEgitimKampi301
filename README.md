@@ -4,11 +4,13 @@
 
 CSharpEgitimKampi301 projesinde;
 
-Migration yapısını kullanarak DbContext sınıfı üzerinden projemizdeki entity classlarını tarayarak, veritabanını oluşturduk.
+> N Katmanlı Mimari; Entity Layer Projemizi oluşturduk.
 
-Entitiy Framework Metotları ile Projoje uygulaması yaptık.
+> Migration yapısını kullanarak DbContext sınıfı üzerinden projemizdeki entity classlarını tarayarak, veritabanını oluşturduk.
 
-Ve son olarak Entitiy Framework kullanarak windowsForm ile Tur Projesi Yaptık.
+> Entitiy Framework Metotları ile Projoje uygulaması yaptık.
+
+> Ve son olarak Entitiy Framework kullanarak windowsForm ile Tur Projesi Yaptık.
 
  
 
